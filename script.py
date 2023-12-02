@@ -1,2 +1,2 @@
 print('WHY so SERIOUS')
-print('yes no')
+print('yes no ok')
